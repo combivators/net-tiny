@@ -1,2 +1,2 @@
-# net-tiny
-极简至极的目标
+## Net Tiny: Simple is the best
+## 设计目的: 极简至极
